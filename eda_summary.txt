@@ -1,0 +1,6 @@
+Rows raw: 20000
+Rows cleaned (price in [10, 350]): 19001
+last_review dtype raw: object
+last_review dtype cleaned: datetime64[ns]
+price min/max raw: 0 / 10000
+price min/max cleaned: 10 / 350

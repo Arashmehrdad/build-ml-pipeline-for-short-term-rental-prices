@@ -1,0 +1,17 @@
+column,dtype,missing,missing_pct
+id,int64,0,0.0
+name,object,7,0.03
+host_id,int64,0,0.0
+host_name,object,8,0.04
+neighbourhood_group,object,0,0.0
+neighbourhood,object,0,0.0
+latitude,float64,0,0.0
+longitude,float64,0,0.0
+room_type,object,0,0.0
+price,int64,0,0.0
+minimum_nights,int64,0,0.0
+number_of_reviews,int64,0,0.0
+last_review,object,4123,20.62
+reviews_per_month,float64,4123,20.62
+calculated_host_listings_count,int64,0,0.0
+availability_365,int64,0,0.0

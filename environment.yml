@@ -1,3 +1,4 @@
+conda activate nyc_airbnb_dev
 name: nyc_airbnb_dev
 channels:
   - conda-forge
