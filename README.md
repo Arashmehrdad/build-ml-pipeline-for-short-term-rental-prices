@@ -592,3 +592,9 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+## Submission Links 
+
+- GitHub Repository: https://github.com/arashmehrdad/build-ml-pipeline-for-short-term-rental-prices
+  
+- Weights & Biases Project (public): https://wandb.ai/arash-vip-92-solent-university-southampton/nyc_airbnb
